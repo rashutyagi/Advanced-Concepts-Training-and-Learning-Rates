@@ -10,3 +10,23 @@ Target was to achieve 88% accuracy in less than 50 epochs.
 Here are some of the statistics for the training :- 
 
 ![VARIATION OF LEARNING RATE ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Learning%20Rate%20Curve.PNG)
+
+25 misclassified images:
+![25 Misclassified Images](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/25%20misclassified%20Images.PNG)
+
+Learning rate vs Accuracy
+![Learning rate vs Accuracy](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Learning%20Rate%20vs%20Accuracy.PNG)
+
+Learning rate vs Loss
+![Learning rate vs Loss](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Learning%20Rate%20vs%20Loss.PNG)
+
+Gradcam on misclassified images
+![Gradcam on misclassified images](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Gradcam%20on%20misclassified%20images%205.PNG)
+
+![Gradcam on misclassified images ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Gradcam%20on%20misclassified%20images%2010.PNG)
+
+![Gradcam on misclassified images ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Gradcam%20on%20misclassified%20images%2015.PNG)
+
+![Gradcam on misclassified images ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Gradcam%20on%20misclassified%20images%2020.PNG)
+
+![Gradcam on misclassified images ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Gradcam%20on%20misclassified%20images%2025.PNG)
