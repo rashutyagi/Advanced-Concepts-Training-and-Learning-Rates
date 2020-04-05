@@ -9,4 +9,4 @@ Target was to achieve 88% accuracy in less than 50 epochs.
 
 Here are some of the statistics for the training :- 
 
-![VARIATION OF LEARNING RATE ](link-to-image)
+![VARIATION OF LEARNING RATE ](https://github.com/rashutyagi/Advanced-Concepts-Training-and-Learning-Rates/blob/master/Images/Learning%20Rate%20Curve.PNG)
